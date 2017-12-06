@@ -1,0 +1,13 @@
+Alarm KEYWORD1
+getHours KEYWORD2
+getMinutes KEYWORD2
+getAMins KKEYWORD2
+getAHours KEYWORD2
+increaseAMins KEYWORD2
+increaseMins KEYWORD2
+increaseAHours KEYWORD2
+increaseHours KEYWORD2
+at KEYWORD2
+printtime KEYWORD2
+update KEYWORD2
+verify KEYWORD2
